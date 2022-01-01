@@ -1,0 +1,29 @@
+:root {
+  --color-primary: #000;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  line-height: 1;
+}
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+ul {
+  margin-left: 0;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+input {
+  outline: none;
+}
